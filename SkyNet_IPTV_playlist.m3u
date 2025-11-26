@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,Первый
+https://flu2.sknt.ru/21/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Россия 1
+https://flu3.sknt.ru/245/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Матч! ТВ
+https://flu3.sknt.ru/22/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,НТВ
+https://flu2.sknt.ru/20/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,5 канал
+https://flu2.sknt.ru/19/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Россия К
+https://flu3.sknt.ru/45/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Россия 24
+https://flu3.sknt.ru/43/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Карусель
+https://flu3.sknt.ru/13/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,ОТР
+https://flu3.sknt.ru/206/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,ТВЦ
+https://flu3.sknt.ru/31/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Рен ТВ
+https://flu3.sknt.ru/14/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Спас
+https://flu3.sknt.ru/8/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,СТС
+https://flu2.sknt.ru/42/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Домашний
+https://flu3.sknt.ru/33/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,ТВ-3
+https://flu3.sknt.ru/55/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Пятница!
+https://flu3.sknt.ru/6/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Звезда
+https://flu3.sknt.ru/7/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Мир
+https://flu3.sknt.ru/34/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,ТНТ
+https://flu3.sknt.ru/40/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Муз-ТВ
+https://flu3.sknt.ru/108/video.m3u8?filter.tracks=v1a1l1
+#EXTINF:0,Санкт-Петербург
+https://flu3.sknt.ru/213/video.m3u8?filter.tracks=v1a1
+#EXTINF:0,ЛенТВ24
+https://flu3.sknt.ru/369/video.m3u8?filter.tracks=v1a1
